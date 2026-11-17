@@ -11,7 +11,7 @@
 
 ## 联系我
 
-- 博客：https://blog.ycu.de5.net/
+- 博客教程：https://blog.ycu.de5.net/
 - X：https://x.com/yngstein
 - Linux.do：https://linux.do/u/yang_sunny/summary
 - 有问题或建议，欢迎直接到项目里提 issue
