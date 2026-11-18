@@ -1,19 +1,20 @@
-# Hi, I'm Ryan 👋
+# Hi, I'm Ryan Sun 👋
 
-做 **Web AI 操作本地电脑** 的开源项目，探索让普通人用好 AI 的最大潜能。
+I'm an independent open-source developer working on **practical ways to connect web AI assistants with local tools**.
 
-## 我在做的项目
+I focus on usable workflows: local MCP execution, browser integrations, clear permissions, and reliable feedback from real tools.
 
-| 项目 | 简介 |
+## Projects
+
+| Project | What it does |
 | --- | --- |
-| [**Nexus**](https://github.com/ysunyang4/Nexus) | Web AI for local work：让网页版 AI 直接操作你的本地文件和系统 |
-| [**webagent**](https://github.com/ysunyang4/webagent) | Nexus 的浏览器插件，把网页 AI 和本地能力连起来 |
+| [**Nexus**](https://github.com/ysunyang4/Nexus) | A local MCP execution bridge for authorized files, terminals, Git, and desktop workflows. |
+| [**WebAgent**](https://github.com/ysunyang4/webagent) | A browser extension that connects supported web AI chats to a local Nexus instance. |
 
-## 联系我
+## Connect
 
-- 博客教程：https://blog.ycu.de5.net/
-- X：https://x.com/yngstein
-- Linux.do：https://linux.do/u/yang_sunny/summary
-- 有问题或建议，欢迎直接到项目里提 issue
+- [Blog and setup guides](https://blog.ycu.de5.net/)
+- [X / Twitter](https://x.com/yngstein)
+- [LINUX DO](https://linux.do/u/yang_sunny/summary)
 
-如果项目对你有帮助，欢迎点个 ⭐ Star。
+Bug reports, technical feedback, and pull requests are welcome. If these projects help you, consider starring the repositories.
